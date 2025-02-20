@@ -1,0 +1,29 @@
+Buffering
+Buffering creates a zone around a geographical feature. This operation is commonly used for proximity analysis, such as determining areas within a certain distance of a road or river.
+
+Spatial Joins
+Spatial joins combine attributes of two spatial datasets based on their spatial relationship. This can be useful for linking point data to the nearest polygon or aggregating values within a given region.
+
+Intersection
+The intersection operation identifies overlapping areas between two spatial datasets. It is commonly used in land-use planning and environmental analysis.
+
+Union
+A union operation merges multiple spatial datasets into a single dataset while preserving all features from the input datasets.
+
+Clip
+The clip operation extracts features from one dataset based on the boundaries of another dataset. This is useful for focusing analysis on a specific area of interest.
+
+Dissolve
+Dissolve aggregates features based on a common attribute, simplifying the dataset and reducing complexity.
+
+Geocoding
+Geocoding converts addresses into geographic coordinates, making it possible to map locations from textual data.
+
+Reprojection
+Reprojection changes the coordinate reference system (CRS) of spatial data, ensuring compatibility between datasets with different projections.
+
+Raster Analysis
+Raster analysis involves operations on grid-based data, such as elevation models or satellite imagery. Common tasks include calculating slope, aspect, and performing classifications.
+
+Conclusion
+These geospatial operations are fundamental in GIS workflows, enabling efficient spatial data analysis and decision-making.
