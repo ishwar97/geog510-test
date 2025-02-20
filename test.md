@@ -5,6 +5,8 @@ This markdown is for testing a push to github repository.
 
 ## Operations
 
+| Math operation | Experssion |
+| ---- | ---- |
 | Addition | x + y |
 | Substraction | x - y |
 | Division | x / y |
