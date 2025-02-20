@@ -4,6 +4,7 @@ This markdown is for testing a push to github repository.
 ## Addition as described in [wikipedia](https://en.wikipedia.org/wiki/Addition)
 
 ## Operations
+
 | Addition | x + y |
 | Substraction | x - y |
 | Division | x / y |
